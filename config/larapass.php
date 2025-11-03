@@ -14,7 +14,7 @@ return [
     */
 
     'relaying_party' => [
-        'name' => env('WEBAUTHN_NAME', env('APP_NAME')),
+        'name' => env('WEBAUTHN_NAME'),
         'id'   => env('WEBAUTHN_ID'),
         'icon' => env('WEBAUTHN_ICON'),
     ],
