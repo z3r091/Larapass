@@ -1,8 +1,9 @@
 {
-    "name": "darkghosthunter/larapass",
+    "name": "z3r091/larapass",
     "description": "Authenticate users with just their device, fingerprint or biometric data. Goodbye passwords!",
     "keywords": [
         "darkghosthunter",
+        "z3r091",
         "webauthn",
         "laravel"
     ],
